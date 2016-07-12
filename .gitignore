@@ -1,0 +1,15 @@
+target
+*.class
+*.iml
+*.ipr
+*.iws
+.idea
+out
+*.sbt
+java
+scala-2.11
+lib_managed
+src/main/scala/common
+project
+submission
+*.sc
